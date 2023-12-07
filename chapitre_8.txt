@@ -1,0 +1,9 @@
+Bonjour
+Ceci est le début du chapitre 8 de la formation Python-GitHub
+
+Matin : python sur Scipy et ses modules
+
+Après-midi : Git et git-hub
+
+Merci et bonne fin de journée
+
